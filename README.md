@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Iris and I'm a second year Computer Science student at Cal Poly. 
+
 <!--
 **konanyuta/konanyuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
