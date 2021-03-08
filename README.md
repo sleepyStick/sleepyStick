@@ -2,7 +2,7 @@
 
 My name is Iris and I'm a second year Computer Science student at Cal Poly. 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sleepyStick&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sleepyStick&count_private=true&theme=buefy&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyStick&langs_count=5&theme=tokyonight)]()
 
 
