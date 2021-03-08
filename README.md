@@ -11,6 +11,9 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sleepyStick.sleepyStick)
 [![Linkedin: anmol](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **konanyuta/konanyuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
