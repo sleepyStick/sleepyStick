@@ -8,7 +8,7 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyStick&langs_count=5&theme=buefy)]()
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sleepyStick.sleepyStick)
-[![Linkedin: anmol](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
+[![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
 ```text
