@@ -11,10 +11,32 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
 ```text
-Markdown   14 mins         ████████████▓░░░░░░░░░░░░   51.28 % 
-YAML       13 mins         ████████████▒░░░░░░░░░░░░   48.72 % 
+⌚︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Markdown                 14 mins             ████████████░░░░░░░░░░░░░   51.28% 
+YAML                     13 mins             ████████████░░░░░░░░░░░░░   48.72%
+
 ```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   16 repos            ██████████████░░░░░░░░░░░   57.14% 
+Assembly                 4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 <!--
