@@ -12,7 +12,8 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   14 mins         ████████████▓░░░░░░░░░░░░   51.28 % 
+YAML       13 mins         ████████████▒░░░░░░░░░░░░   48.72 % 
 ```
 <!--END_SECTION:waka-->
 
