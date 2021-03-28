@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 My name is Iris and I'm a second year Computer Science student at Cal Poly. 
 
