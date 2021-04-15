@@ -19,8 +19,7 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Text                     21 mins             █████████████░░░░░░░░░░░░   55.05% 
-JavaScript               17 mins             ███████████░░░░░░░░░░░░░░   44.95%
+Text                     21 mins             █████████████████████████   100.0%
 
 ```
 
