@@ -11,7 +11,7 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.1%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,19 +19,18 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   3 hrs 13 mins       ██████████████████████░░░   87.55% 
-JavaScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.45%
+Python                   3 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ████████████░░░░░░░░░░░░░   47.5% 
-C                        10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Assembly                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
+Python                   19 repos            ███████████░░░░░░░░░░░░░░   46.34% 
+C                        10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+Assembly                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
 
 ```
 
