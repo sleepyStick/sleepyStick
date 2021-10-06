@@ -19,8 +19,8 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               2 hrs 21 mins       ███████████████████████░░   95.26% 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
+JavaScript               1 hr 40 mins        ███████████████████████░░   95.33% 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.67%
 
 ```
 
@@ -37,7 +37,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2021
+ Last Updated on 06/10/2021
 <!--END_SECTION:waka-->
 
 <!--
