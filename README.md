@@ -11,7 +11,7 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,11 +19,11 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   4 hrs 33 mins       ████████████████░░░░░░░░░   67.04% 
-JavaScript               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   26.78% 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05% 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01% 
-tmux                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+Python                   4 hrs 56 mins       █████████████████░░░░░░░░   68.83% 
+JavaScript               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   25.29% 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
+tmux                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
 
 ```
 
@@ -40,7 +40,7 @@ Assembly                 4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
 
 <!--
