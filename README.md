@@ -19,8 +19,8 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   6 hrs 25 mins       ██████████████████████░░░   89.66% 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
+Python                   3 hrs 58 mins       █████████████████████░░░░   84.9% 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
 
 ```
 
@@ -37,7 +37,7 @@ Assembly                 4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2021
+ Last Updated on 28/12/2021
 <!--END_SECTION:waka-->
 
 <!--
