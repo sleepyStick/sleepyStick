@@ -11,7 +11,7 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -19,27 +19,28 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-JavaScript               1 hr 19 mins        ███████████████████░░░░░░   77.22% 
-Python                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.67% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python                   21 mins             ███████████░░░░░░░░░░░░░░   44.56% 
+JavaScript               20 mins             ██████████░░░░░░░░░░░░░░░   42.49% 
+CoffeeScript             3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.94% 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   46 repos            █████████████░░░░░░░░░░░░   55.42% 
-C                        10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
-JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
-Standard ML              8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Assembly                 4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
+Python                   48 repos            █████████████░░░░░░░░░░░░   54.55% 
+C                        11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+JavaScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
+Standard ML              8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Assembly                 5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.68%
 
 ```
 
 
 
- Last Updated on 04/03/2022 01:30:23 UTC
+ Last Updated on 05/03/2022 01:23:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
