@@ -18,12 +18,10 @@ My name is Iris and I'm a second year Computer Science student at Cal Poly.
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Los_Angeles
+⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     2 hrs 17 mins       ███████████████████████░░   93.49% 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
-CoffeeScript             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+CoffeeScript             0 secs              █████████████████████████   100.0%
 
 ```
 
@@ -40,7 +38,7 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2022 02:13:10 UTC
+ Last Updated on 15/06/2022 02:07:32 UTC
 <!--END_SECTION:waka-->
 
 <!--
