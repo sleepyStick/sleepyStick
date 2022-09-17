@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-My name is Iris and I'm a second year Computer Science student at Cal Poly. 
+My name is Iris and I'm a fourth year Computer Science student at Cal Poly. 
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleepyStick&show_icons=true&&count_private=true&include_all_commits=true&theme=buefy)]()
