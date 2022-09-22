@@ -21,7 +21,10 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      34 mins             ████████████████████░░░░░   80.43% 
+CMake                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
 
 ```
 
@@ -38,7 +41,7 @@ Java                     3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2022 02:43:47 UTC
+ Last Updated on 22/09/2022 02:31:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
