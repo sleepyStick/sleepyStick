@@ -11,7 +11,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19%20Million%20lines%20of%20code-blue)
 
@@ -39,7 +39,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2022 02:31:50 UTC
+ Last Updated on 31/10/2022 02:29:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
