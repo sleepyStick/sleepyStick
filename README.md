@@ -21,8 +21,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-C++                      1 hr 55 mins        ████████████████████████░   95.77% 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.23%
+No Activity Tracked This Week
 
 ```
 
@@ -39,7 +38,7 @@ TeX                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2022 01:47:45 UTC
+ Last Updated on 16/12/2022 01:31:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
