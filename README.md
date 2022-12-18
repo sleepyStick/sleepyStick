@@ -11,7 +11,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Million%20lines%20of%20code-blue)
 
@@ -31,14 +31,14 @@ TeX                      13 mins             ███████████�
 Python                   59 repos            ███████████████░░░░░░░░░░   61.46% 
 Standard ML              9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
 JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-C                        7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
-TeX                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
+C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+TeX                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
 
 ```
 
 
 
- Last Updated on 17/12/2022 01:29:59 UTC
+ Last Updated on 18/12/2022 01:32:29 UTC
 <!--END_SECTION:waka-->
 
 <!--
