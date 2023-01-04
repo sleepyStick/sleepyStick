@@ -15,6 +15,16 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Million%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -28,7 +38,7 @@ TeX                      3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 01:32:34 UTC
+ Last Updated on 04/01/2023 01:33:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
