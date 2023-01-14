@@ -13,7 +13,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,14 +31,14 @@ No Activity Tracked This Week
 Python                   59 repos            ███████████████░░░░░░░░░░   61.46% 
 Standard ML              9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
 JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-C                        6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+C                        5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
 TeX                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
 
 ```
 
 
 
- Last Updated on 13/01/2023 01:46:07 UTC
+ Last Updated on 14/01/2023 01:30:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
