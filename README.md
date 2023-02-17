@@ -13,7 +13,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2029%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,8 +21,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      14 mins             ███████████████████░░░░░░   76.37 % 
-JavaScript               4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+TeX                      14 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -39,7 +38,7 @@ C                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 01:48:03 UTC
+ Last Updated on 17/02/2023 01:44:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
