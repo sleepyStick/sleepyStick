@@ -11,7 +11,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.9%20million%20lines%20of%20code-blue)
 
@@ -21,8 +21,8 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      11 hrs 27 mins      █████████████████████████   98.88 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+TeX                      10 hrs 40 mins      █████████████████████████   98.80 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
@@ -39,7 +39,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 01:49:17 UTC
+ Last Updated on 02/03/2023 01:45:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
