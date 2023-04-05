@@ -11,7 +11,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-456%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.6%20million%20lines%20of%20code-blue)
 
@@ -21,8 +21,8 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      4 hrs 21 mins       ███████████████████████░░   91.75 % 
-OpenEdge ABL             22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+TeX                      4 hrs 22 mins       ███████████████████████░░   91.76 % 
+OpenEdge ABL             22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
@@ -30,17 +30,17 @@ Other                    0 secs              ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   254 repos           █████████████████░░░░░░░░   66.32 % 
-TeX                      5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Python                   254 repos           █████████████████░░░░░░░░   66.15 % 
+C                        12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TeX                      5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
 
 
- Last Updated on 04/04/2023 01:32:15 UTC
+ Last Updated on 05/04/2023 01:14:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
