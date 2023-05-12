@@ -11,7 +11,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-499%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.6%20million%20lines%20of%20code-blue)
 
@@ -21,18 +21,18 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TeX                      5 hrs 26 mins       █████████████████████████   98.03 % 
-C                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TeX                      4 hrs 22 mins       ████████████████████████░   97.56 % 
+C                        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   256 repos           █████████████████░░░░░░░░   66.15 % 
-C                        12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-TeX                      6 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Python                   256 repos           ████████████████░░░░░░░░░   65.98 % 
+C                        12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TeX                      7 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
@@ -40,7 +40,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2023 01:27:26 UTC
+ Last Updated on 12/05/2023 01:27:01 UTC
 <!--END_SECTION:waka-->
 
 <!--
