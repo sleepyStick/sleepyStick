@@ -11,7 +11,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.1%20million%20lines%20of%20code-blue)
 
@@ -21,17 +21,17 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               3 hrs 40 mins       █████████████████░░░░░░░░   66.64 % 
-Python                   1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-C                        23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Python                   4 hrs 6 mins        ████████████████████░░░░░   79.38 % 
+JavaScript               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+C                        23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   263 repos           ████████████████░░░░░░░░░   65.75 % 
-C                        12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-TeX                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Python                   264 repos           ████████████████░░░░░░░░░   65.84 % 
+C                        12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+TeX                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
@@ -39,7 +39,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2023 01:41:51 UTC
+ Last Updated on 18/06/2023 02:04:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
