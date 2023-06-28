@@ -3,6 +3,7 @@
 My name is Iris and I'm a fourth year Computer Science student at Cal Poly. 
 
 <div id="github-stats">
+
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleepyStick&show_icons=true&&count_private=true&include_all_commits=true&theme=panda)]()
 
  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyStick&langs_count=5&theme=panda)]()
