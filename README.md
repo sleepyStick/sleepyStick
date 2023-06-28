@@ -2,11 +2,11 @@
 
 My name is Iris and I'm a fourth year Computer Science student at Cal Poly. 
 
-<div id="github-stats">
-
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sleepyStick&show_icons=true&&count_private=true&include_all_commits=true&theme=panda)]()
-
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyStick&langs_count=5&theme=panda)]()
+<div id='github-stats' class='container'>
+ <!-- GitHub Stats -->
+ <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sleepyStick&show_icons=true&&count_private=true&include_all_commits=true&theme=panda" />
+ <!-- GitHub Languages -->
+ <img style="height: auto; width: 55%;" class="img" src="[https://github-readme-stats.vercel.app/api?username=sleepyStick&show_icons=true&&count_private=true&include_all_commits=true&theme=panda](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyStick&langs_count=5&theme=panda)" />
 </div>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sleepyStick.sleepyStick)
