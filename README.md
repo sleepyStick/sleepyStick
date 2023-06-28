@@ -9,7 +9,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepyStick&langs_count=5&layout=compact&theme=panda" />
 </div>
 
-![visitors](https://komarev.com/ghpvc/?username=sleepyStick.sleepyStick)
+![visitors](https://komarev.com/ghpvc/?username=sleepyStick)
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
