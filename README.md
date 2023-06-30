@@ -13,7 +13,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-555%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.1%20million%20lines%20of%20code-blue)
 
@@ -23,11 +23,11 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   12 hrs 26 mins      ████████████████████████░   96.87 % 
-CoffeeScript             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-INI                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-reStructuredText         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   13 hrs 16 mins      ███████████████████████░░   92.01 % 
+C                        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+INI                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+CoffeeScript             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 **I Mostly Code in Python** 
@@ -43,7 +43,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2023 02:01:58 UTC
+ Last Updated on 30/06/2023 01:59:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
