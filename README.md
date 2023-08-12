@@ -13,9 +13,9 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2052%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.2%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,26 +23,27 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   13 hrs 2 mins       ████████████████████████░   95.23 % 
-TeX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Git                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Python                   11 hrs 54 mins      ████████████████████████░   94.12 % 
+TeX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+INI                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   205 repos           ████████████████░░░░░░░░░   64.67 % 
-C                        12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-TeX                      10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   260 repos           ████████████████░░░░░░░░░   65.82 % 
+C                        12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+TeX                      10 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+C++                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 
 
 
- Last Updated on 11/08/2023 01:11:36 UTC
+ Last Updated on 12/08/2023 01:11:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
