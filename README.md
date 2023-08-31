@@ -13,7 +13,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.6%20million%20lines%20of%20code-blue)
 
@@ -40,7 +40,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2023 01:15:07 UTC
+ Last Updated on 31/08/2023 01:17:05 UTC
 <!--END_SECTION:waka-->
 
 <!--
