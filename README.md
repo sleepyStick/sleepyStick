@@ -13,7 +13,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.6%20million%20lines%20of%20code-blue)
 
@@ -23,11 +23,11 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-GDScript                 1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-TeX                      1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-TSQL                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-XML                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+TeX                      4 hrs 26 mins       ███████████████████░░░░░░   76.65 % 
+GDScript                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+TSQL                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Assembly                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 **I Mostly Code in Python** 
@@ -43,7 +43,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2023 01:18:23 UTC
+ Last Updated on 14/10/2023 01:14:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
