@@ -13,34 +13,22 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2035%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.1%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Python                   10 hrs 41 mins      █████████████████████████   99.84 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   96 repos            ██████████████░░░░░░░░░░░   57.83 % 
-C                        12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-TeX                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Jupyter Notebook         8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Python                   96 repos            ███████████████░░░░░░░░░░   58.18 % 
+C                        12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+TeX                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Jupyter Notebook         8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 06/12/2023 01:18:44 UTC
+ Last Updated on 07/12/2023 01:18:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
