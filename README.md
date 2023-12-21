@@ -15,7 +15,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-43.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,24 +23,24 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 23 mins             █████████████████████░░░░   83.58 % 
-Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Markdown                 23 mins             ████████████████████████░   97.59 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   88 repos            ██████████████░░░░░░░░░░░   55.70 % 
-TeX                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Jupyter Notebook         8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Python                   88 repos            ██████████████░░░░░░░░░░░   55.35 % 
+TeX                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Jupyter Notebook         9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+C++                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 
 
 
 
- Last Updated on 20/12/2023 01:04:24 UTC
+ Last Updated on 21/12/2023 01:16:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
