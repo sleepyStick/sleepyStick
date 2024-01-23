@@ -23,7 +23,8 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Go                       4 hrs 20 mins       █████████████████████████   100.00 % 
+Go                       7 hrs 41 mins       ████████████████████████░   97.93 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 
 **I Mostly Code in Python** 
@@ -39,7 +40,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2024 01:22:45 UTC
+ Last Updated on 23/01/2024 01:20:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
