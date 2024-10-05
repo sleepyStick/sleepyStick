@@ -13,7 +13,7 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 [![Linkedin: itsirisho](https://img.shields.io/badge/-itsirisho-informational?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsirisho/)](https://www.linkedin.com/in/itsirisho/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-804%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46.4%20million%20lines%20of%20code-blue)
 
@@ -23,8 +23,8 @@ My name is Iris and I'm a fourth year Computer Science student at Cal Poly.
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   19 hrs 12 mins      █████████████████████████   99.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   19 hrs 18 mins      █████████████████████████   99.01 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 **I Mostly Code in Python** 
@@ -40,7 +40,7 @@ Racket                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2024 01:42:43 UTC
+ Last Updated on 05/10/2024 01:41:50 UTC
 <!--END_SECTION:waka-->
 
 <!--
